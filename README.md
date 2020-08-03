@@ -1,7 +1,4 @@
-### Hi there 👋
-
-
-Here are some ideas to get you started:
+### Heya
 
 - 🔭 I’m currently working on mostly private repos...
 - 🌱 I’m currently learning TailwindCSS, Elasticsearch, Vue
