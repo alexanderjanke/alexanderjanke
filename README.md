@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**alexanderjanke/alexanderjanke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on mostly private repos...
+- 🌱 I’m currently learning TailwindCSS, Elasticsearch, Vue
+- 👯 I’m looking to collaborate on: feel free to contact me
+
+- 📫 How to reach me:
+
+[Twitter](https://twitter.com/alexjanke92)
+
+[Reddit](https://reddit.com/u/leiinth)
+
+[Dev](https://dev.to/alexanderjanke)
+
+
+[![gitName github stats](https://github-readme-stats.vercel.app/api?username=alexanderjanke)](https://github.com/gitname/github-readme-stats)
