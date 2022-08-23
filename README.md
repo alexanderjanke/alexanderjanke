@@ -1,7 +1,7 @@
 ### Heya
 
-- 🔭 I’m currently working on mostly private repos...
-- 🌱 I’m currently learning TailwindCSS, Elasticsearch, Vue
+- 🔭 I’m currently working on mostly private repos for work
+- 🌱 I’m currently learning TailwindCSS, Elasticsearch, React/Next
 - 👯 I’m looking to collaborate on: feel free to contact me
 
 - 📫 How to reach me:
