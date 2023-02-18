@@ -47,6 +47,4 @@ Discord: Alex Miller#0049
 
 [Twitter](https://twitter.com/alexjanke92)
 
-[Reddit](https://reddit.com/u/leiinth)
-
 [Dev](https://dev.to/alexanderjanke)
