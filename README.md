@@ -46,5 +46,3 @@ Techs I work(ed) with:
 Discord: Alex Miller#0049
 
 [Twitter](https://twitter.com/alexjanke92)
-
-[Dev](https://dev.to/alexanderjanke)
