@@ -43,6 +43,6 @@ Techs I work(ed) with:
 
 - 📫 How to reach me:
 
-Discord: Alex Miller#0049
+Discord: alexmiller
 
 [Twitter](https://twitter.com/alexjanke92)
