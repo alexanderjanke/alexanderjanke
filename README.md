@@ -44,5 +44,3 @@ Techs I work(ed) with:
 - 📫 How to reach me:
 
 Discord: alexmiller
-
-[Twitter](https://twitter.com/alexjanke92)
