@@ -1,6 +1,6 @@
-### Heya
+### Hey
 
-- 🔭 I’m currently working on mostly private repos for work
+- 🔭 I’m currently working on https://irpaints.com
 - 👯 I’m looking to collaborate on: feel free to contact me
 
 Techs I work(ed) with:
